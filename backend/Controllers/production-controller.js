@@ -1,4 +1,4 @@
-import Production from "../models/Production.js";
+import Production from "../Models/Production.js"
 
 // --- Helper Function for Validation ---
 const validateProductionData = (data) => {
